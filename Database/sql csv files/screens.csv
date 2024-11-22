@@ -1,0 +1,16 @@
+screen_id,screen_name,location,city,state,country,seating_capacity,created_by,create_date,modified_by,modified_date
+1,Screen 1,CMR Central,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21
+2,Screen 2,Mukta A2 Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
+3,Screen 3,INOX - Varun Beach,Visakhapatnam,Andhra Pradesh,India,400,Admin,2024-01-01,Admin,2024-11-21
+4,Screen 4,PVR - MVP,Visakhapatnam,Andhra Pradesh,India,350,Admin,2024-01-01,Admin,2024-11-21
+5,Screen 5,Cinepolis - Jagadamba,Visakhapatnam,Andhra Pradesh,India,450,Admin,2024-01-01,Admin,2024-11-21
+6,Screen 6,GVK One Mall,Visakhapatnam,Andhra Pradesh,India,200,Admin,2024-01-01,Admin,2024-11-21
+7,Screen 7,Big Cinemas - Simhachalam,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
+8,Screen 8,IMAX - Vizag,Visakhapatnam,Andhra Pradesh,India,500,Admin,2024-01-01,Admin,2024-11-21
+9,Screen 9,MMR Cinemas,Visakhapatnam,Andhra Pradesh,India,400,Admin,2024-01-01,Admin,2024-11-21
+10,Screen 10,Ambica Cinema,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21
+11,Screen 11,Star Cinemas,Visakhapatnam,Andhra Pradesh,India,350,Admin,2024-01-01,Admin,2024-11-21
+12,Screen 12,Platinum Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
+13,Screen 13,Silver Screen,Visakhapatnam,Andhra Pradesh,India,200,Admin,2024-01-01,Admin,2024-11-21
+14,Screen 14,Rama Cinema,Visakhapatnam,Andhra Pradesh,India,150,Admin,2024-01-01,Admin,2024-11-21
+15,Screen 15,Sun Cinemas,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21

@@ -1,0 +1,61 @@
+movie_id,movie_title,duration,rating,release_date,audio_language,created_by,create_date,modified_by,modified_date
+1,Avengers: Endgame,181,PG-13,2019-04-26,English,Admin,2018-01-01,Admin,2019-04-25
+2,The Lion King,118,PG,2019-07-19,English,Admin,2017-06-01,Admin,2019-07-18
+3,Joker,122,R,2019-10-04,English,Admin,2018-03-01,Admin,2019-10-03
+4,Spider-Man: Far From Home,129,PG-13,2019-07-02,English,Admin,2018-04-01,Admin,2019-07-01
+5,Toy Story 4,104,PG,2019-06-21,English,Admin,2017-09-01,Admin,2019-06-20
+6,The Hunger Games: The Ballad of Songbirds & Snakes,157,PG-13,2024-11-17,English,Admin,2024-11-01,Admin,2024-11-17
+7,Killers of the Flower Moon,206,R,2024-10-20,English,Admin,2024-09-15,Admin,2024-10-19
+8,The Marvels,105,PG-13,2024-11-10,English,Admin,2024-10-01,Admin,2024-11-09
+9,Dangal,161,U/A,2016-12-23,Hindi,Admin,2016-10-01,Admin,2016-12-23
+10,Lagaan,224,U/A,2001-06-15,Hindi,Admin,2001-05-01,Admin,2001-06-15
+11,RRR,187,UA,2022-03-25,Telugu,Admin,2022-03-01,Admin,2022-03-25
+12,Pushpa: The Rise,179,U/A,2021-12-17,Telugu,Admin,2021-11-01,Admin,2021-12-17
+13,Baahubali: The Conclusion,167,U/A,2017-04-28,Telugu,Admin,2017-04-01,Admin,2017-04-28
+14,KGF: Chapter 2,168,U/A,2022-04-14,Kannada,Admin,2022-03-01,Admin,2022-04-14
+15,Jawan,150,U/A,2023-09-07,Hindi,Admin,2023-08-01,Admin,2023-09-07
+16,Brahmastra: Part One – Shiva,168,U/A,2022-09-09,Hindi,Admin,2022-08-01,Admin,2022-09-09
+17,Spider-Man: No Way Home,148,PG-13,2021-12-17,English,Admin,2021-10-01,Admin,2021-12-17
+18,The Kashmir Files,170,U/A,2022-03-11,Hindi,Admin,2022-02-01,Admin,2022-03-11
+19,Laal Singh Chaddha,159,U/A,2022-08-11,Hindi,Admin,2022-07-01,Admin,2022-08-11
+20,Sooryavanshi,145,U/A,2021-11-05,Hindi,Admin,2021-10-01,Admin,2021-11-05
+21,Mr. Bean's Holiday,90,PG,2007-03-30,English,Admin,2007-01-01,Admin,2007-03-30
+22,Johnny English,88,PG,2003-04-06,English,Admin,2003-01-01,Admin,2003-04-06
+23,Johnny English Reborn,101,PG,2011-10-28,English,Admin,2011-08-01,Admin,2011-10-28
+24,Avengers: Infinity War,149,PG-13,2018-04-27,English,Admin,2017-08-01,Admin,2018-04-25
+25,Iron Man,126,PG-13,2008-05-02,English,Admin,2007-01-01,Admin,2008-05-02
+26,Kung Fu Panda,92,PG,2008-06-06,English,Admin,2008-04-01,Admin,2008-06-06
+27,Kung Fu Panda 2,90,PG,2011-05-26,English,Admin,2011-05-01,Admin,2011-05-26
+28,Kung Fu Panda 3,95,PG,2016-01-29,English,Admin,2015-12-01,Admin,2016-01-29
+29,Cars,117,G,2006-06-09,English,Admin,2006-05-01,Admin,2006-06-09
+30,Cars 2,106,G,2011-06-24,English,Admin,2011-05-01,Admin,2011-06-24
+31,Cars 3,102,G,2017-06-16,English,Admin,2017-05-01,Admin,2017-06-16
+32,Zootopia,108,PG,2016-03-17,English,Admin,2015-12-01,Admin,2016-03-17
+33,Up,96,G,2009-05-29,English,Admin,2009-01-01,Admin,2009-05-29
+34,WALL-E,98,G,2008-06-27,English,Admin,2008-05-01,Admin,2008-06-27
+35,Finding Nemo,100,G,2003-05-30,English,Admin,2003-03-01,Admin,2003-05-30
+36,Arya,144,U/A,2004-03-14,Telugu,Admin,2004-02-01,Admin,2004-03-14
+37,Monsters,92,G,2001-11-02,English,Admin,2001-09-01,Admin,2001-11-02
+38,The Incredibles,115,PG,2004-11-05,English,Admin,2004-10-01,Admin,2004-11-05
+39,Shrek,90,PG,2001-04-22,English,Admin,2001-03-01,Admin,2001-04-22
+40,Shrek 2,93,PG,2004-05-19,English,Admin,2004-04-01,Admin,2004-05-19
+41,Shrek 3,93,PG,2007-05-18,English,Admin,2007-04-01,Admin,2007-05-18
+42,The Croods,98,PG,2013-03-22,English,Admin,2013-01-01,Admin,2013-03-22
+43,The Croods: A New Age,95,PG,2020-11-25,English,Admin,2020-10-01,Admin,2020-11-25
+44,Despicable Me,95,PG,2010-07-09,English,Admin,2010-06-01,Admin,2010-07-09
+45,Despicable Me 2,98,PG,2013-07-03,English,Admin,2013-06-01,Admin,2013-07-03
+46,Despicable Me 3,96,PG,2017-06-30,English,Admin,2017-05-01,Admin,2017-06-30
+47,Minions,91,PG,2015-07-10,English,Admin,2015-06-01,Admin,2015-07-10
+48,Kung Fu Panda: Secrets of the Furious Five,45,PG,2008-11-25,English,Admin,2008-11-01,Admin,2008-11-25
+49,Kung Fu Panda: Legends of Awesomeness,22,TV-Y,2011-11-07,English,Admin,2011-10-01,Admin,2011-11-07
+50,Monsters University,104,G,2013-06-21,English,Admin,2013-05-01,Admin,2013-06-21
+51,Puspha the rule ,180,U/A,2024-12-05,Telugu,Admin,2014-10-20,Admin,2015-07-22
+52,Mr.Bachan,135,U/A,2024-08-15,Telugu,Admin,2014-10-21,Admin,2016-07-22
+53,Acharya ,169,UA,2022-04-29,Telugu,Admin,2014-10-22,Admin,2016-07-23
+54,Agent,140,U/A,2023-04-28,Telugu,Admin,2014-10-23,Admin,2016-07-24
+55,Bhola Shankar,155,U/A,2023-08-11,Telugu,Admin,2014-10-24,Admin,2016-07-25
+56,Stree 2,137,U/A,2024-08-15,Telugu,Admin,2014-10-25,Admin,2016-07-26
+57,Double Ismart,175,U/A,2024-08-15,Telugu,Admin,2014-10-26,Admin,2016-07-27
+58,Bramothasavam,169,U/A,2016-06-23,Telugu,Admin,2014-10-27,Admin,2016-07-28
+59,Skanda,133,U/A,2023-10-23,Telugu,Admin,2014-10-28,Admin,2016-07-29
+60,Animal,210,R,2023-12-01,Telugu,Admin,2014-10-29,Admin,2016-07-30

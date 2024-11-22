@@ -1,0 +1,6 @@
+show_time_id,screen_id,show_time,is_active,current_movie_id,created_by,create_date,modified_by,modified_date
+1,1,10:00:00,TRUE,1,Admin,2023-02-20,Admin,2023-02-20
+2,1,13:00:00,TRUE,2,Admin,2023-02-20,Admin,2023-02-20
+3,2,16:00:00,TRUE,1,Admin,2023-02-20,Admin,2023-02-20
+4,3,19:00:00,TRUE,3,Admin,2023-02-20,Admin,2023-02-20
+5,1,21:00:00,TRUE,2,Admin,2023-02-20,Admin,2023-02-20
