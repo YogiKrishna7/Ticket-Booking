@@ -1,6 +1,0 @@
-seat_id,screen_id,seat_number,created_by,create_date,modified_by,modified_date
-1,1,A1,Admin,2023-02-20,Admin,2024-11-21
-2,1,A2,Admin,2023-02-21,Admin,2024-11-21
-3,1,B1,Admin,2023-02-22,Admin,2024-11-21
-4,2,C1,Admin,2023-02-23,Admin,2024-11-21
-5,2,C2,Admin,2023-02-24,Admin,2024-11-21

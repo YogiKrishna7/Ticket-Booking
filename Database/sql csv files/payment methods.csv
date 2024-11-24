@@ -1,6 +1,0 @@
-payment_method_id,payment_method_name,created_by,create_date,modifed_by,modified_date
-1,Credit Card,Admin,2023-03-23,Admin,2024-04-20
-2,Debit Card,Admin,2023-03-24,Admin,2024-04-21
-3,PayPal,Admin,2023-03-25,Admin,2024-04-22
-4,Bank Transfer,Admin,2023-03-26,Admin,2024-04-23
-5,Cash,Admin,2023-03-27,Admin,2024-04-24
